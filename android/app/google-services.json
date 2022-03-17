@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "22099776920",
+    "project_id": "easy-shelter-3fafc",
+    "storage_bucket": "easy-shelter-3fafc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22099776920:android:162de1ede61dc7a65507ed",
+        "android_client_info": {
+          "package_name": "com.example.easy_shelter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22099776920-rheup3t7enav4icj7iuu72611jj43qdb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeZXI569v7ZcP3_tatN1DZkcqy1AyWLIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22099776920-rheup3t7enav4icj7iuu72611jj43qdb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
